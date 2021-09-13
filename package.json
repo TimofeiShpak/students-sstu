@@ -1,0 +1,13 @@
+{
+  "name": "modulesapp",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node app.js Tom 26",
+    "dev-see": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^4.1.1"
+  }
+}
